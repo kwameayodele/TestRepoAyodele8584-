@@ -1,0 +1,48 @@
+Data Science Tools and Ecosystem
+
+Data Science Tools:
+
+Project Jupyter
+Excel
+Apache Spark
+TensorFlow
+SAS
+Create a markdown cell with a table of Data Science tools
+
+Category	Tool Name	Primary Use
+Programming Languages	Python	General-purpose, extensive DS/ML libraries
+R	Statistical computing and graphics
+Data Manipulation/Analysis	Pandas	Data structures and data analysis for Python
+NumPy	Numerical computing, array operations
+Machine Learning Libraries	Scikit-learn	ML algorithms for classification, regression, clustering
+TensorFlow/PyTorch	Deep learning framework development
+Visualization	Matplotlib/Seaborn	Creating static, interactive, and animated visualizations
+Databases/Storage	SQL (PostgreSQL/MySQL)	Managing and querying relational databases
+
+
+**Objectives**:
+
+### List popular languages for Data Science
+* Python
+* R
+* sql
+* Julia
+* Scala
+* Java
+* C/C++
+* MATLAB
+* Javascript
+Below are a few examples of evaluating arithmetic expressions in Python.
+ This a simple arithmetic expression to mutiply then add integers (3*4)+5
+17
+Selection deleted
+
+
+# This will convert 200 minutes to hours by dividing by 60. 200/60
+200/60
+
+3.3333333333333335
+Author
+Name
+
+Click to add a cell.
